@@ -1,5 +1,11 @@
 # Xterfusion
 
+## History
+
+I completed the development of this software on October 11, 2026, and successfully packaged it. At that time, I merely shared this apk with two individuals in a group chat. Now, on November 23rd, after more than six weeks, I had a brainstorm and decided to make it open source, which led to the creation of this repo.
+
+## Beats
+
 <!--X X XXX
 
 x x xxx
